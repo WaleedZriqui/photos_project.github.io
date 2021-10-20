@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item img{
+    width: 10%;
+    height: 92vh;
+}
+
+.navba{
+    position: static;
+}
